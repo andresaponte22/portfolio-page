@@ -24,6 +24,7 @@ header {
     background-color: #0D1B1E;
 }
 
+
 header h1 {
     font-size: 40px;
     color: #7798AB;
@@ -46,14 +47,23 @@ nav ul li {
     display: inline-block;
 }
 
+aside ul li {
+    color: #7798ab;
+    list-style-type: none;
+    display: inline-block;
+    margin-left: 10px;
+}
+
 /* class selectors */
 .main {
     display: flex;
     flex-direction: column;
     justify-content: center;
+    flex-wrap: wrap;
     align-items: center;
     background-color: #e8dcb9;
     padding: 20px;
+    margin: 30px;
 }
 
 .aside {
@@ -61,9 +71,12 @@ nav ul li {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    flex-wrap: wrap;
     background-color: #c3dbc5;
-    padding: 20px;
+    padding: 30px;
+    margin: 30px;
 }
+
 
 .navigation {
     padding: 20px;
@@ -76,6 +89,7 @@ nav ul li {
 .container{
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
 }
 
 .card {
@@ -101,6 +115,12 @@ nav ul li {
     border-radius: 15px 15px 0 0;
 }
 
+.face-image {
+    height: 150px;
+    width: 150px;
+    background-size: cover;
+}
+
 .project-1 {
     background-image: url('./images/guessWord.jpg')
 }
@@ -111,6 +131,10 @@ nav ul li {
 
 .project-3 {
     background-image: url('./images/calculator.png');
+}
+
+.head-shot {
+    background-image: url('./images/HEAD.PNG');
 }
 
 
