@@ -13,4 +13,4 @@ This basic layout and styling was mainly achieved by using CSS flexbox propertie
 The about me section is not centered properly as I'd like.
 
                         Website screenshot
-![screenshot](https://imgur.com/zadZP8p)
+![screenshot](https://i.imgur.com/zadZP8p.png)
