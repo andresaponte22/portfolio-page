@@ -1,9 +1,9 @@
-Portfolio page
-By: Andres Aponte
-Date: 05/22/2021
-Version: 1.0
-Homework: Portfolio page
-Programming language: HTML, CSS
+Portfolio page /
+By: Andres Aponte /
+Date: 05/22/2021 /
+Version: 1.0 /
+Homework: Portfolio page /
+Programming language: HTML, CSS /
 
                         Description
 Personal portfolio page created to showcase my current and future deployed projects.
