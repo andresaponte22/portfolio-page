@@ -9,8 +9,5 @@ Programming language: HTML, CSS /
 Personal portfolio page created to showcase my current and future deployed projects.
 This basic layout and styling was mainly achieved by using CSS flexbox properties.
 
-                        Known errors
-The about me section is not centered properly as I'd like.
-
                         Website screenshot
 ![screenshot](https://i.imgur.com/zadZP8p.png)
