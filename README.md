@@ -10,7 +10,7 @@ https://andresaponte22.github.io/portfolio-page/
 ### Projects
 [![Film Dimension](https://i.imgur.com/wbdXWcb.png)](https://andresaponte22.github.io/film-dimension/)
 [![Coding Tool Hub](https://i.imgur.com/Bx8Quxh.png)](https://codingtoolhub.herokuapp.com/)
-[![Code Quiz](https://i.imgur.com/e7Rr4hR.png](https://andresaponte22.github.io/code-quiz/)
+[![Code Quiz](https://i.imgur.com/e7Rr4hR.png)](https://andresaponte22.github.io/code-quiz/)
 [![Day Planner](https://i.imgur.com/O1vKeH1.png)](https://andresaponte22.github.io/day-planner/)
 [![E-Comm Backend](https://i.imgur.com/YHnHUxQ.png)](https://github.com/andresaponte22/ecomm-backend)
 
